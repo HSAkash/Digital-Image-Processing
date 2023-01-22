@@ -5,3 +5,9 @@ University assigenment (4.1)
 ```
 git clone git@github.com:HSAkash/Digital-Image-Processing.git
 ```
+
+## Install dependencies
+```
+pip install -r requirements.txt 
+```
+
